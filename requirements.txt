@@ -28,7 +28,7 @@ bs4	==0.0.1
 dnspython	==2.1.0	
 dominate	==2.6.0	
 future	== 0.18.2	
-greenlet	1.1.2	
+greenlet==1.1.2	
 itsdangerous	== 2.0.1	
 lazy-object-proxy==	1.6.0	
 lxml==	4.6.4	

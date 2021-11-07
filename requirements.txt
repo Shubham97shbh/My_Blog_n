@@ -32,5 +32,4 @@ greenlet	1.1.2
 itsdangerous	== 2.0.1	
 lazy-object-proxy==	1.6.0	
 lxml==	4.6.4	
-pip ==	20.2.3	
 wtforms-validators ==	1.0.0	
